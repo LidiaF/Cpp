@@ -2,7 +2,7 @@
 This code populates an interval map data structure that stores values of type V mapped to key intervals
 [keyLower, keyUpper) of type K.
 
-#-------------------------------------------------------------------------------------------------------
+#-----------------------------------------------------------------------------------------------
 Please, set the alias for key and value data types in "main.cpp" before compiling the code.
 Supported types categories: floating point, integer and character (only char).
 
@@ -15,7 +15,7 @@ Please, set the desired data types also in "interval_map.cpp" before compiling t
 Example:
 template class Interval_Map <unsigned short, char>;
 
-#-------------------------------------------------------------------------------------------------------
+#------------------------------------------------------------------------------------------------
 Please, decrease the upper numeric limit in
 
 const T populateIntervalMap(gen_t& gen);
