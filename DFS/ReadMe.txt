@@ -4,7 +4,7 @@ This code performs the Depth-First Search algorithm (DFS) on a tree data structu
 Reference:
 DFS algorithm: https://brilliant.org/wiki/depth-first-search-dfs/
 
-#-----------------------------------------------------------------------------------------------------------------
+#-------------------------------------------------------------------------------------------
 Please, initialize the tree data structure using nested braces syntax {} in "main.cpp" before compiling the code.
 
 Example (see image Example_Tree.jpg):
@@ -23,7 +23,7 @@ Vertex v("C++",{
    		}}
    });
 
-#-----------------------------------------------------------------------------------------------------------------
+#-------------------------------------------------------------------------------------------
 #To compile
 make
 
